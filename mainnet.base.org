@@ -1,0 +1,10 @@
+BASE_RPC_URL_1=https://mainnet.base.org
+BASE_RPC_URL_2=https://base-mainnet.g.alchemy.com/v2/
+BASE_RPC_URL_3=https://base-mainnet.infura.io/v3/
+FIREBASE_PROJECT_ID=pheromone-bridge
+FIREBASE_CREDENTIALS_PATH=./config/firebase-credentials.json
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+TELEGRAM_CHAT_ID=your_chat_id_here
+LOG_LEVEL=INFO
+CONSENSUS_THRESHOLD=0.67
+MIN_NODE_BOND_ETH=1.0
